@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Просветова Вероника Михайловна</string>
+    <string name="title">Контакты</string>
+    <string name="phone_number">+86 (90) 554 123</string>
+    <string name="social_media"> myMedia </string>
+    <string name="my_domail">myDomail@domail.com</string>
+</resources>
