@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+
+    <string name="title_mona_lisa">Мона Лиза (Джоконда)</string>
+    <string name="title_starry_night">Звездная ночь</string>
+    <string name="title_sunflowers">Подсолнухи</string>
+    <string name="title_the_birth_of_venus">Рождение Венеры</string>
+
+    <string name="artist_leonardo_da_vinci">Леонардо да Винчи</string>
+    <string name="artist_vincent_van_gogh">Винсент ван Гог</string>
+    <string name="artist_sandro_botticelli">Сандро Боттичелли</string>
+
+    <string name="year_1519">1519 год</string>
+    <string name="year_1889">1889 год</string>
+    <string name="year_1486">1486 год</string>
+
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
