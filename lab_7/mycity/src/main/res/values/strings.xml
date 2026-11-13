@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="back_button">Back</string>
+
+    <string name="cat_restaurants">Рестораны</string>
+    <string name="cat_parks">Парки</string>
+    <string name="cat_coffee">Кофейни</string>
+    <string name="cat_cinemas">Кинотеатры</string>
+    <string name="cat_malls">Торговые центры</string>
+
+
+    <!-- рестораны -->
+    <string name="restaurants_1_title">Хачапури Марико</string>
+    <string name="restaurants_1_desc">Уютный ресторан грузинской кухни (хинкали, хачапури, традиционные закуски и горячие блюда).</string>
+    <string name="restaurants_1_address">ул. Красноармейская, 144</string>
+
+    <string name="restaurants_2_title">Дом Пури</string>
+    <string name="restaurants_2_desc">Сетевой ресторан грузинской кухни с душевной атмосферой и разнообразным меню.</string>
+    <string name="restaurants_2_address">пр. Советский, 49</string>
+
+    <string name="restaurants_3_title">PORT42</string>
+    <string name="restaurants_3_desc">Популярный гастрономический ресторан на набережной с авторским меню, винной картой и красивым видом.</string>
+    <string name="restaurants_3_address">ул. Притомская наб., 7</string>
+
+    <string name="restaurants_4_title">Прованс</string>
+    <string name="restaurants_4_desc">Уютное заведение с европейской кухней, десертами и спокойной атмосферой.</string>
+    <string name="restaurants_4_address">пр. Ленина, 59а</string>
+
+
+    <!-- парки -->
+    <string name="park_1_title">Парк Победы имени Жукова</string>
+    <string name="park_1_desc">Главный мемориальный парк города на берегу реки Искитимки с выставкой военной техники, аллеями и набережной.</string>
+    <string name="park_1_address">ул. Красноармейская, 144</string>
+
+    <string name="park_2_title">Парк Ангелов</string>
+    <string name="park_2_desc">Мемориальный сквер, созданный в память о жертвах пожара в ТРЦ «Зимняя вишня». На территории есть светомузыкальная башня-фонтан, ротонда с именами погибших и детская игровая зона.</string>
+    <string name="park_2_address">пр. Ленина, 35Б</string>
+
+    <string name="park_3_title">Парк культуры и отдыха «Антошка»</string>
+    <string name="park_3_desc">Семейный парк развлечений на берегу Искитимки. Свое название получил от стоявшего здесь прежде самолета Ан-10А. На территории есть детские аттракционы, игровые площадки и круглогодично зимующие на реке дикие утки.</string>
+    <string name="park_3_address">ул. Мичурина, 24/26</string>
+
+
+    <!-- кофейни -->
+    <string name="coffee_1_title">Кофейня ростерия Black Pearl</string>
+    <string name="coffee_1_desc">Заведение с собственной обжаркой зерна со всего мира (готовят кофе десятью способами). Предлагают завтраки целый день, ланчи, десерты и авторский чай. Есть отдельный зал для деловых встреч.</string>
+    <string name="coffee_1_address">ул. 50 лет Октября, 9</string>
+
+    <string name="coffee_2_title">Magic Coffee</string>
+    <string name="coffee_2_desc">Популярное место с прекрасным видом на реку Томь, большим выбором десертов и напитков.</string>
+    <string name="coffee_2_address">ул. Притомская наб., 15</string>
+
+    <string name="coffee_3_title">Traveler"s Coffee</string>
+    <string name="coffee_3_desc">Известная кофейня с полноценным меню, завтраками, десертами и удобными местами для работы за ноутбуком.</string>
+    <string name="coffee_3_address">ул. Весенняя, 16</string>
+
+
+    <!-- кинотеатры -->
+    <string name="cinemas_1_title">Юбилейный</string>
+    <string name="cinemas_1_desc">Один из крупнейших и популярных киноцентров города. В здании работают детский центр, кафе и пиццерия.</string>
+    <string name="cinemas_1_address">пр. Ленина, 91</string>
+
+    <string name="cinemas_2_title">Космос</string>
+    <string name="cinemas_2_desc">Исторический кинотеатр (открыт в 1961 году в честь полета Юрия Гагарина) в центральном районе города с уютным интерьером, качественным звуком и видео.</string>
+    <string name="cinemas_2_address">ул. 50 лет Октября, 28</string>
+
+    <string name="cinemas_3_title">Гринвич</string>
+    <string name="cinemas_3_desc">Современный кинотеатр с удобными креслами и качественным звуком, находящийся на юге города.</string>
+    <string name="cinemas_3_address">просп. Молодежный, 2 (ТРК «Гринвич»)</string>
+
+    <string name="cinemas_4_title">Starmax Cinema</string>
+    <string name="cinemas_4_desc">Современный кинотеатр, расположенный в крупном торгово-развлекательном центре.</string>
+    <string name="cinemas_4_address">просп. Московский, 19 (ТРЦ «Летосити», 3-й этаж)</string>
+
+
+    <!-- торговые центры -->
+    <string name="malls_1_title">Лапландия</string>
+    <string name="malls_1_desc">Самый крупный торгово-развлекательный центр города. Внутри расположены магазины одежды и обуви, аттракционы и выставочные пространства.</string>
+    <string name="malls_1_address">проспект Октябрьский, 34</string>
+
+    <string name="malls_2_title">Я</string>
+    <string name="malls_2_desc">Популярный торговый центр в центральной части города на пересечении крупных магистралей. Предлагает продукты, одежду, обувь, бытовую технику, фудкорт и банкоматы.</string>
+    <string name="malls_2_address">просп. Кузнецкий, 33Б</string>
+
+    <string name="malls_3_title">Гринвич</string>
+    <string name="malls_3_desc">Торгово-развлекательный комплекс, включающий магазины, кинотеатр, кафе, супермаркет и крытую парковку.</string>
+    <string name="malls_3_address">просп. Молодёжный 2</string>
+
+    <string name="malls_4_title">Сити Парк</string>
+    <string name="malls_4_desc">Специализируется на товарах для дома, работы, детей и спорта, есть фуд-корт.</string>
+    <string name="malls_4_address">просп. Кузнецкий, 33А</string>
+</resources>
