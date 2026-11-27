@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tasks</string>
+
+    <string name="today_short">Сег</string>
+    <string name="today">Сегодня</string>
+    <string name="tasks_count">Задач: %1$d</string>
+    <string name="no_tasks_text">Нет задач на выбранную дату</string>
+    <string name="create_task_desc">Создать задачу</string>
+
+    <string name="calendar_desc">Календарь</string>
+    <string name="sort_desc">Сортировка</string>
+
+    <string name="task_date_time_info">Дата: %1$s • Время: %2$s</string>
+    <string name="no_description">Описание отсутствует</string>
+    <string name="delete_desc">Удалить</string>
+    <string name="edit_desc">Редактировать</string>
+
+    <string name="title_label">Название задачи*</string>
+    <string name="description_label">Описание</string>
+    <string name="date_button_label">Дата: %1$s</string>
+    <string name="time_button_label">Время: %1$s</string>
+    <string name="save_action">Сохранить</string>
+</resources>
